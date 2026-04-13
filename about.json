@@ -4,8 +4,10 @@
     "email":"faiz.14a@gmail.com",
     "bio": "Always eager to learn and implement new things",
     "experience": [
-        { "role": "Full Stack Developer (Web/App/Backend)", "company": "JSB Global Infotech", "duration": "May 2025 – Present" },
-        { "role": "Data Analyst", "company": "Dhruv Research", "duration": "August 2024 – April 2025" }
+        { "role": "Full Stack Developer (Ai Integration/Web/App/Backend)", "company": "JSB Global Infotech", "duration": "May 2025 – Present" },
+        { "role": "Data Analyst", "company": "Dhruv Research", "duration": "August 2024 – April 2025" },
+        { "role": "Data Science Intern", "company": "CodeAlpha", "duration": "July 2024 – August 2024" },
+        { "role": "Data Science Intern", "company": "Cognifyz Technologies", "duration": "May 2024 – July 2024" },
     ],
     "socials": [
         { "platform": "GitHub", "icon": "logo-github", "url": "https://github.com/FazeFlynn" },
@@ -13,5 +15,5 @@
     ],
     "website": "https://islamkhan.in",
     "resume": "https://islamkhan.in/docs/IslamKathatResume.pdf",
-    "disclaimer": "This application is a demonstration project built for portfolio and interview purposes only by Islam Kathat. It is not intended for redistribution, or resale. If you are viewing this app, it was shared with you as a technical demo."
+    "disclaimer": "This application is a demonstration project built by Islam Kathat for portfolio and interview purposes only. It is not intended for redistribution, or resale. If you are viewing this app, it was shared with you as a technical demo."
 }
