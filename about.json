@@ -1,19 +1,17 @@
 {
-    "name": "Your Name",
-    "title": "Your Title / Role",
+    "name": "Islam Kathat",
+    "title": "Ai Engineer, Full Stack developer",
     "email":"faiz.14a@gmail.com",
-    "bio": "A brief introduction about yourself and your background.",
+    "bio": "Always eager to learn and implement new things",
     "experience": [
-        { "role": "Your Role", "company": "Company Name", "duration": "20XX – Present" },
-        { "role": "Your Role", "company": "Company Name", "duration": "20XX – 20XX" }
+        { "role": "Full Stack Developer (Web/App/Backend)", "company": "JSB Global Infotech", "duration": "May 2025 – Present" },
+        { "role": "Data Analyst", "company": "Dhruv Research", "duration": "August 2024 – April 2025" }
     ],
     "socials": [
-        { "platform": "GitHub", "icon": "logo-github", "url": "https://github.com/your-username" },
-        { "platform": "LinkedIn", "icon": "logo-linkedin", "url": "https://linkedin.com/in/your-username" },
-        { "platform": "Twitter / X", "icon": "logo-twitter", "url": "https://twitter.com/your-handle" },
-        { "platform": "Instagram", "icon": "logo-instagram", "url": "https://instagram.com/your-handle" }
+        { "platform": "GitHub", "icon": "logo-github", "url": "https://github.com/FazeFlynn" },
+        { "platform": "LinkedIn", "icon": "logo-linkedin", "url": "https://www.linkedin.com/in/islam-khan-4644211b2/" }
     ],
-    "website": "https://your-website.com",
-    "resume": "https://your-resume-link.com",
-    "disclaimer": "This application is a demonstration project built for portfolio and interview purposes only. It is not intended for commercial use, redistribution, or resale. All rights are reserved by the creator. If you are viewing this app, it was shared with you as a technical demo."
+    "website": "https://islamkhan.in",
+    "resume": "https://islamkhan.in/docs/IslamKathatResume.pdf",
+    "disclaimer": "This application is a demonstration project built for portfolio and interview purposes only by Islam Kathat. It is not intended for redistribution, or resale. If you are viewing this app, it was shared with you as a technical demo."
 }
