@@ -1,0 +1,18 @@
+{
+    "name": "Your Name",
+    "title": "Your Title / Role",
+    "bio": "A brief introduction about yourself and your background.",
+    "experience": [
+        { "role": "Your Role", "company": "Company Name", "duration": "20XX – Present" },
+        { "role": "Your Role", "company": "Company Name", "duration": "20XX – 20XX" }
+    ],
+    "socials": [
+        { "platform": "GitHub", "icon": "logo-github", "url": "https://github.com/your-username" },
+        { "platform": "LinkedIn", "icon": "logo-linkedin", "url": "https://linkedin.com/in/your-username" },
+        { "platform": "Twitter / X", "icon": "logo-twitter", "url": "https://twitter.com/your-handle" },
+        { "platform": "Instagram", "icon": "logo-instagram", "url": "https://instagram.com/your-handle" }
+    ],
+    "website": "https://your-website.com",
+    "resume": "https://your-resume-link.com",
+    "disclaimer": "This application is a demonstration project built for portfolio and interview purposes only. It is not intended for commercial use, redistribution, or resale. All rights are reserved by the creator. If you are viewing this app, it was shared with you as a technical demo."
+}
