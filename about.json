@@ -1,6 +1,7 @@
 {
     "name": "Your Name",
     "title": "Your Title / Role",
+    "email":"faiz.14a@gmail.com",
     "bio": "A brief introduction about yourself and your background.",
     "experience": [
         { "role": "Your Role", "company": "Company Name", "duration": "20XX – Present" },
